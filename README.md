@@ -1,4 +1,4 @@
-# Pet Name Generator (Streamlit + LangChain + Ollama)
+# pet-name-generator
 
 A small app that generates pet names based on animal type and color.
 
